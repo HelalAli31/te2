@@ -14,7 +14,7 @@ public class ThreadCheckArray implements Runnable
      * A flag to indicate if a valid subset has been found.
      */
     private boolean flag;
-    private boolean flag23;
+    private boolean flag234;
 
 
     /**
