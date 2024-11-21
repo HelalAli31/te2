@@ -14,6 +14,8 @@ public class ThreadCheckArray implements Runnable
      * A flag to indicate if a valid subset has been found.
      */
     private boolean flag;
+    private boolean flag2;
+
 
     /**
      * An array indicating which elements of the shared array contribute to the solution.
