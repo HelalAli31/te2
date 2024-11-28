@@ -11,7 +11,7 @@ public class SharedData
     /**
      * The array of integers shared between components.
      */
-    private ArrayList<Integer> array1List22;
+    private ArrayList<Integer> array1List225555;
 
     /**
      * The array indicating win states for components.
