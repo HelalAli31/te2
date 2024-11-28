@@ -11,7 +11,7 @@ public class SharedData
     /**
      * The array of integers shared between components.
      */
-    private ArrayList<Integer> TEAMMATE3;
+    private ArrayList<Integer> TEAMMATE3333;
 
     /**
      * The array indicating win states for components.
